@@ -1,0 +1,987 @@
+.home {
+    position: relative;
+    max-width: 1600px;
+    margin: auto;
+    top: -65px;
+}
+
+
+.carousel-caption h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    color: #1D1D1D;
+    ;
+}
+
+.carousel .carousel-caption {
+    position: absolute;
+    top: 180px;
+    left: 0;
+    text-align: left;
+    width: 50%;
+    padding: 60px 117px 0px;
+}
+
+.carousel .carousel-item {
+    position: relative;
+}
+
+.carousel .carousel-caption h5 span {
+    background: linear-gradient(180deg, #A0816C 70.31%, #D9B99B 86.98%, #9AF2FF 99.99%, #D9B99B 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.carousel .carousel-caption p {
+    color: #1D1D1D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    text-align: justify;
+    font-weight: 400;
+    padding: 10px 10px 10px 0px;
+    line-height: 30px;
+}
+
+.carousel .carousel-caption a {
+    border-radius: 40px;
+    background: linear-gradient(90deg, #D9B99B 34.9%, #EED9C4 100%);
+    color: #343045;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.carousel .carousel-caption a {
+    color: #343045;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.carousel .carousel-caption img {
+    width: 10%;
+}
+
+.sec-2 {
+    max-width: 1600px;
+    margin: auto;
+}
+
+
+.sec-2 .countmd {
+    background: url(https://vitabae.com/demo/assets/images/icons/md-sec-2.png) no-repeat top center;
+    height: 150px;
+    position: relative;
+}
+
+.sec-2 .countmd h3 {
+    position: absolute;
+    top: 52%;
+    left: 40%;
+    color: #343045;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.sec-2 .countmd-1 {
+    background: url(https://vitabae.com/demo/assets/images/icons/sec-2-1.png) no-repeat top center;
+    height: 150px;
+    position: relative;
+}
+
+
+.sec-2 .countmd-2 {
+    background: url(https://vitabae.com/demo/assets/images/icons/sec-2-2.png) no-repeat top center;
+    height: 150px;
+    position: relative;
+}
+
+
+
+.sec-2 .countmd-3 {
+    background: url(https://vitabae.com/demo/assets/images/icons/sec-2-1.png) no-repeat top center;
+    height: 150px;
+    position: relative;
+}
+
+
+
+.sec-2 .countmd-4 {
+    background: url(https://vitabae.com/demo/assets/images/icons/sec-2-2.png) no-repeat top center;
+    height: 150px;
+    position: relative;
+}
+
+
+
+.sec-2 .count2md h4 {
+    color: #1D1D1D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 20px 0px;
+    margin: 0px;
+}
+
+.sec-2 .count2md img {
+    height: 27px;
+    margin: 15px 0px;
+}
+
+.sec-2 .count {
+    background: url(https://vitabae.com/demo/assets/images/icons/sec-2.png) no-repeat top center;
+    height: 198px;
+    position: relative;
+}
+
+.sec-2 .count h3 {
+    position: absolute;
+    top: 32%;
+    left: 36%;
+    color: #343045;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 63px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.sec-2 .count2 h4 {
+    color: #1D1D1D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 20px 0px;
+    margin: 0px;
+}
+
+.sec-2 .count2 img {
+    width: 45px;
+    height: 45px;
+    margin: 10px;
+}
+
+.whoweare .head h3 {
+    color: #A0816C;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    margin: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.whoweare .head .d-flex p {
+    color: #1D1D1D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin: 10px 30px 0px 0px;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.whoweare .head img {
+    width: 113px;
+    height: 50px;
+    padding: 0px 5px;
+}
+
+.whoweare .head {
+    padding: 40px 15px;
+}
+
+.whoweare .head-2 {
+    padding: 50px 20px;
+}
+
+.whoweare .head-2 p {
+    color: #1D1D1D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0px;
+}
+
+.three-sec-bg {
+    background: url(https://vitabae.com/demo/assets/images/banner/form-banner.png) no-repeat top center;
+    height: 1000px;
+    background-size: contain;
+}
+
+.About {
+    background: url(https://vitabae.com/demo/assets/images/banner/banner-2.png) no-repeat top center;
+    background-size: cover;
+}
+
+.About .head {
+    margin: 80px 20px;
+}
+
+.About .head h3 {
+    color: #A0816C;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.About .head .title {
+    color: rgba(29, 29, 29, 0.95);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.About .head .content p {
+    color: #1D1D1D;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 45px 0px;
+}
+
+.About .head .content .about-btn {
+    border-radius: 40px;
+    background: linear-gradient(90deg, #D9B99B 0%, #EED9C4 100%);
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 15px;
+    text-transform: uppercase;
+    border: 0px;
+    text-decoration: none;
+}
+
+.pay-us {
+    margin: auto;
+    max-width: 1600px;
+}
+
+.lab {
+    margin: auto;
+    max-width: 1600px;
+}
+
+.journey {
+    margin: auto;
+    max-width: 1600px;
+}
+
+.pay-us .content {
+    border-radius: 90px;
+    background: #EED9C4;
+    box-shadow: 0px 4px 4px 0px rgba(192, 183, 232, 0.01);
+    padding: 20px;
+}
+
+.pay-us .content .d-flex img {
+    height: 50px;
+}
+
+.pay-us .content .content-title {
+    padding: 5px 10px 0px;
+}
+
+.pay-us .content .bd-right {
+    padding: 15px 40px;
+    border-right: 1px solid #A0816C;
+    margin: auto;
+}
+
+.pay-us .content .bd-last {
+    padding: 15px 40px;
+    margin: auto;
+}
+
+
+
+.pay-us .content .content-title h3 {
+    color: #313131;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.pay-us .content .content-title p {
+    color: #313131;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.welcome {
+    background: url(https://vitabae.com/demo/assets/images/banner/baner-3.png) no-repeat center;
+    position: relative;
+    background-size: contain;
+    padding: 108px 0px;
+    text-align: center;
+
+}
+
+.welcome h2 {
+    text-align: center;
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.welcome .wel-btn {
+    position: absolute;
+    bottom: -24px;
+    left: 47%;
+    right: 47%;
+}
+
+.journey .head h3 {
+    color: #A0816C;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    margin: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.journey .head p {
+    color: #1D1D1D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    margin: 10px 40px 10px 0px;
+}
+
+.journey .head img {
+    width: 113px;
+    height: 50px;
+    padding: 0px 5px;
+}
+
+.journey .head {
+    padding: 0px 15px;
+}
+
+.journey .head-2 {
+    padding: 0px 20px;
+}
+
+.journey .head-2 p {
+    color: #1D1D1D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0px;
+}
+
+.vitabae-title {
+    color: #1D1D1D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.main-form {
+    max-width: 1600px;
+    margin: 0px auto;
+}
+
+.form {
+    border-radius: 100px;
+    background: linear-gradient(180deg, #EED9C4 33.53%, #D9B99B 84.68%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+
+}
+
+.form h1 {
+    color: #A0816C;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.form img {
+    text-align: center;
+    margin: 22px 0px 25px;
+}
+
+.form h3 {
+    text-align: center;
+    color: #3D3D3D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.form .home-form input {
+    border-radius: 40px;
+    border: 2px solid #3D3D3D;
+    padding: 10px;
+    background: none;
+    width: 100%;
+    margin: 10px;
+    margin: 20px 0px;
+}
+
+.form .home-form input::placeholder {
+    color: #3D3D3D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.form .home-form button {
+    border-radius: 40px;
+    background: linear-gradient(90deg, #A0816C 0%, #E8D0B8 67.71%);
+    padding: 14px 25px;
+    border: 0px;
+    color: #575659;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 35px;
+}
+
+footer {
+    margin: auto;
+    max-width: 1600px;
+}
+
+.footer-menu {
+    padding: 0px 20px;
+}
+
+.footer-menu ul li {
+    color: #1D1D1D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    list-style: none;
+    padding: 0px 0px 15px;
+    text-transform: uppercase;
+}
+
+.foot-socialize {
+    padding: 0px 0px 0px 25px;
+}
+
+.foot-socialize h3 {
+    color: #1D1D1D;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0px 0px 20px;
+}
+
+.foot-socialize .d-flex img {
+    padding: 10px 10px 10px 0px;
+}
+
+.footer-form {
+    margin: 20px 0px 0px;
+}
+
+.footer-form form {
+    border-radius: 40px;
+    background: #D9B99B;
+    color: #343045;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.footer-form form input {
+    background: none;
+    border: 0px;
+    width: 100%;
+}
+
+.footer-form form input::placeholder {
+    color: #343045;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.footer-form form .foot-btn {
+    border-radius: 25px;
+    background: #816049;
+    border: 0px;
+    color: #fff;
+    padding: 3px 15px;
+}
+
+footer .row .border-bg {
+    background: url(https://vitabae.com/demo/assets/images/icons/footer-border.png) no-repeat top right;
+    background-size: contain;
+}
+
+footer .row {
+    margin-bottom: 45px;
+}
+
+footer .foot-description {
+    border-top: 1px solid #000;
+    padding: 20px 10px;
+}
+
+footer .foot-description p {
+    color: rgba(34, 0, 34, 0.20);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.82px;
+    text-align: center;
+}
+
+.carousel-control-prev-icon {
+    /* background-color: #0000002e; */
+    border-radius: 50px;
+    margin: 20px;
+    position: relative;
+}
+
+.carousel-control-next-icon img {
+    position: absolute;
+    top: -22px;
+    left: -24px;
+}
+
+.carousel-control-next-icon {
+    /* background-color: #0000002e !important; */
+    border-radius: 50px;
+    position: relative;
+    margin: 20px;
+    /* background: url(https://vitabae.com/demo/assets/images/icons/arrow-small-right-2.png); */
+}
+
+.carousel-control-prev-icon img {
+    position: absolute;
+    top: -22px;
+    right: -15px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .carousel {
+        margin-bottom: 0px;
+    }
+
+    .carousel .carousel-caption {
+        position: absolute;
+        top: 48px;
+        width: 65%;
+    }
+
+    .home {
+        top: 0px;
+        margin: 0px 0px 40px;
+    }
+
+    .carousel-caption h5 {
+        font-size: 30px;
+    }
+
+    .carousel .carousel-item .d-flex {
+        justify-content: space-evenly;
+    }
+
+    .whoweare .head-2 p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .whoweare .head .d-flex p {
+        font-size: 15px;
+        margin: 10px 0px;
+    }
+
+    .About .head {
+        margin: 30px 20px 0px;
+        text-align: center;
+    }
+
+    .About .head .title {
+        font-size: 20px;
+    }
+
+    .About .head .content p {
+
+        margin: 16px 0px;
+    }
+
+    .pay-us-md .content .bd-right {
+        padding: 15px 5px;
+        /* height: 86px; */
+        border: 0px;
+
+    }
+
+    /* .pay-us .content .bd-right .justify-content-start{
+        justify-content: space-around !important;
+    } */
+
+    .pay-us-md .content .content-title h3 {
+        font-size: 15px;
+    }
+
+    .pay-us-md .content .content-title p {
+        font-size: 12px;
+        margin: 0px;
+    }
+
+    .welcome {
+        padding: 55px 0px;
+        text-align: center;
+    }
+
+    .journey .head-2 p {
+        font-size: 14px;
+        text-align: center;
+        padding: 20px 0px;
+    }
+
+    .form img {
+        text-align: center;
+        margin: 10px 0px 16px;
+    }
+
+    .three-sec-bg {
+        height: 900px;
+    }
+
+    .foot-logo {
+        width: 90%;
+    }
+
+    .footer-menu {
+        padding: 0px 2px;
+    }
+
+    .footer-menu ul li {
+        font-size: 10px;
+    }
+
+    .foot-socialize h3 {
+        font-size: 12px;
+        margin: 20px 0px 0px;
+    }
+
+    .footer-form form .foot-btn {
+        position: relative;
+        right: 5%;
+    }
+
+    .foot-socialize {
+        padding: 0px 20px 0px;
+    }
+
+    .foot-socialize .d-flex img {
+        padding: 10px 17px 10px 0px;
+    }
+
+    footer .foot-description p {
+        font-size: 8px;
+        margin: 0px;
+    }
+
+    .pay-us-md .content .bd-last {
+        padding: 15px 15px !important;
+        margin: auto;
+    }
+
+    .pay-us-md .content .d-flex img {
+        height: 50px;
+        padding-right: 10%;
+        padding-left: 20%;
+    }
+
+    .pay-us-md .content {
+        border-radius: 90px;
+        background: #EED9C4;
+        box-shadow: 0px 4px 4px 0px rgba(192, 183, 232, 0.01);
+        padding: 0px 0px 0px;
+    }
+
+    .pay-us-md .content .content-inner img {
+        float: left;
+        width: 40px;
+        padding-bottom: 20px;
+    }
+
+    .carousel-item img {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 765px) {
+    .sec-2 {
+        margin: 20px auto;
+    }
+
+    .journey .head {
+        text-align: center;
+    }
+
+    .About .head {
+        margin: 50px 20px 0px;
+        text-align: center;
+    }
+
+    .carousel-caption {
+        position: relative !important;
+        width: 100% !important;
+        padding: 30px !important;
+        top: 0px !important;
+        text-align: center !important;
+    }
+
+    .carousel-caption p {
+        padding: 0px !important;
+        text-align: center !important;
+    }
+
+    .whoweare .head {
+        padding: 50px 15px 4px;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .whoweare .d-flex {
+        display: block !important;
+    }
+
+    .whoweare .head-2 {
+        padding: 10px 20px 30px;
+    }
+
+    .sec-2 .count2md h4 {
+        padding: 0px !important;
+        font-size: 15px;
+    }
+
+    .carousel {
+        /* top: -80px; */
+        margin-bottom: 0px;
+    }
+
+    .About-img img {
+        margin: auto;
+    }
+
+    .sec-2 .count h3 {
+        position: absolute;
+        top: 32%;
+        left: 36%;
+        color: #343045;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 63px;
+        font-style: normal;
+        font-weight: 700;
+    }
+
+    .sec-2 .count2 {
+        justify-content: center;
+    }
+
+    .count-mb {
+        width: 100%;
+    }
+
+    .whoweare .head .d-flex {
+        display: block !important;
+    }
+
+    .pay-us-md .content .bd-right {
+        padding: 0px 10px 20px;
+        border-right: 0px solid #A0816C;
+        margin: auto;
+        width: 80%;
+    }
+
+    .pay-us-md .content .content-inner {
+        background: #EED9C4;
+        border-radius: 50px;
+        padding: 5px 0px 0px;
+    }
+
+    .welcome {
+        background: url(https://vitabae.com/demo/assets/images/banner/baner-3.png) no-repeat center;
+        position: relative;
+        background-size: contain;
+        padding: 40px 0px;
+        text-align: center;
+    }
+
+    footer .row {
+        margin-top: 170px !important;
+        text-align: center;
+    }
+
+    .footer-menu ul li {
+        text-align: center;
+    }
+
+    .foot-socialize .justify-content-start {
+        justify-content: center !important;
+    }
+
+    .footer-form {
+        width: 100%;
+        text-align: center;
+        margin: auto;
+    }
+
+    footer .row .border-bg {
+        background: none;
+    }
+
+    .About .head .content p {
+
+        font-size: 14px;
+    }
+
+    .welcome h2 {
+        font-size: 18px;
+    }
+
+    .welcome {
+        padding: 30px 0px !important;
+    }
+
+    .welcome .wel-btn {
+        bottom: -8px;
+    }
+
+    .form h1 {
+        font-size: 25px;
+    }
+
+    .form h3 {
+        font-size: 20px;
+    }
+
+    footer {
+        padding-top: 10px;
+    }
+
+    .foot-logo {
+        width: 100% !important;
+        padding-bottom: 30px;
+    }
+
+    .pay-us-md .content .content-inner {
+        background: #EED9C4;
+        border-radius: 50px;
+        padding: 10px 30px 10px;
+
+    }
+
+    .pay-us-md .content {
+        background: #ffffff00;
+    }
+
+    .pay-us-md .content .d-flex img {
+        height: 35px;
+        margin: 10px 15px 10px 35px;
+    }
+
+    .pay-us-md .content .d-flex img {
+        height: 50px;
+        padding-right: 0%;
+        padding-left: 0%;
+    }
+
+    .pay-us-md .content .bd-last {
+        padding: 15px 40px !important;
+        margin: auto;
+    }
+
+    .pay-us-md .content .content-title {
+        padding: 5px 10px 0px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .pay-us-md .content .content-inner img {
+        float: left;
+        width: 31px;
+        margin: 10px 0px 0px;
+    }
+
+    .pay-us-md .content {
+        padding: 0px !important;
+    }
+
+    .journey .head p {
+
+        margin: 20px 0px 0px;
+    }
+
+    .form {
+        border-radius: 42px;
+
+    }
+
+    .footer-menu ul {
+        padding: 0px;
+        margin: 0px;
+    }
+}
